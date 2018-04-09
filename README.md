@@ -19,8 +19,8 @@ roster turnover in off-seasons the effect on a single player (changing teams) ca
 
 **Results:**
 
-The preliminary data handling/wrangling/preparation can be found in [this Notebook](https://github.com/tttgm/NBA-Trade-Tracker/blob/master/NBA-dataset_basketball-reference.ipynb).
+The preliminary data handling/wrangling/preparation can be found in [this Notebook](https://github.com/tttgm/NBA-Trade-Tracker/blob/master/NBA-trade-tracker-chart.ipynb).
 
-Some preliminary chord charts plotted using the Plotly library can be found in [this Notebook](https://github.com/tttgm/NBA-Trade-Tracker/blob/master/NBA-trade-tracker-chart.ipynb).
+Some preliminary chord charts plotted using the Plotly library can be found in [this Notebook](https://github.com/tttgm/NBA-Trade-Tracker/blob/master/chord_diagram_plotly.ipynb).
 
 *Any comments, changes, or suggestions welcome :)*
