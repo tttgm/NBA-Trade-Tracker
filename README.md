@@ -12,6 +12,8 @@ To begin with, I'll try to create an interactive plot that looks at in-season pl
 
 On top of this, I'd like to extend this visualisation to highlight some advanced player metrics before & after the trade in order to assess what kind of impact moving teams mid-season might have on performance, or else demonstrate certain changes in opportunity a player may experience from going to a new situation.
 
+For creating chord diagrams that transition between different datasets (e.g. different years for our nba data) check out [this stack overflow page](https://stackoverflow.com/questions/21813723/change-and-transition-dataset-in-chord-diagram-with-d3)
+
 **Scope:**
 
 Hopefully I'll eventually extend this to off-season moves and acquisitions, however with generally more
