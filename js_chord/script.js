@@ -14,6 +14,7 @@ var Names = ["ATL","BKN","BOS","CHA","CHI","CLE","DAL","DEN","DET","GSW","HOU","
 
 //// TRY TO LOAD NBA JSON DATA
 
+
 // Raw data dump
 var matrix = [
     [
@@ -977,6 +978,15 @@ var matrix = [
         1.0
     ]
 ]
+
+// Ideally, want to load the 'nba_matrix_by_year.json' list-of-list-of-list's and
+// have it iterate through the outer list (which is the YEAR), and display the matrix
+// contained within each one...
+
+/*
+var json = require('./nba_matrix_array.json');
+var matrix = JSON.parse(json);
+*/
 
 /*
 // Load as js obj
